@@ -5,7 +5,7 @@ this is docfor opening in laptop:
 3. 		Get-ChildItem
 4. 		npm.cmd install
 5. 		npm.cmd start
-6. open website
+6. open website :: http://localhost:3000/
 
 
 
@@ -17,4 +17,4 @@ doc for open in mobile
 		.\cloudflared-windows-amd64.exe --version
 4. 		Set-Location "$env:USERPROFILE\Downloads"
 		.\cloudflared-windows-amd64.exe tunnel --url http://localhost:3000
-5. get the url to mobile site
+5. get the url to mobile site 
